@@ -1,5 +1,12 @@
 # Orbits Launcher
 
+## Índice
+
+- [Catálogo de aplicativos](#catálogo-de-aplicativos)
+- [Favoritos](#favoritos)
+- [Busca por aplicativos](#busca-por-aplicativos)
+- [Opcionais](#opcionais)
+
 ## Catálogo de aplicativos
 
 Por padrão, o catálogo é composto por aplicações nativas do sistema, aplicações instaladas no contexto do usuário e componentes distribuídos via Cryptex, mecanismo utilizado pelo macOS para entrega dinâmica de componentes do sistema.
