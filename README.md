@@ -1,5 +1,7 @@
 # Orbits Launcher
 
+[English Version](README.en.md)
+
 ## Índice
 
 - [Catálogo de aplicativos](#catálogo-de-aplicativos)
