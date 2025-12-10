@@ -1,6 +1,6 @@
 # Orbits Launcher
 
-[Versão em Português](README.md)
+[Versão em Português](README_pt.md)
 
 ## Index
 
