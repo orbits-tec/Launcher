@@ -1,4 +1,4 @@
 # Orbits Launcher
 
-- [Download](files/Launcher.pkg)
 - [Docs](https://orbits-tec.github.io/Launcher)
+- [Download](https://github.com/orbits-tec/Launcher/releases/latest)
