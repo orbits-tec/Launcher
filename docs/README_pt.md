@@ -1,5 +1,3 @@
-# Orbits Launcher
-
 [English Version](README_en.md)
 
 ## Índice
