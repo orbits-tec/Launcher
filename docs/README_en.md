@@ -50,4 +50,4 @@ The Launcher's application search uses the Spotlight API, allowing you to filter
 
 Keep the Launcher in the Dock and allow it to open at session start. This ensures that applications marked as favorites are loaded in the context menu when the system starts.
 
-![](images/image07.jpeg)
+![](images/image07.png)
