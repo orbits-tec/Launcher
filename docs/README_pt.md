@@ -24,7 +24,7 @@ Por padrão, o catálogo é composto por aplicações nativas do sistema, aplica
 
 Clique em **[ + ]** e selecione o local desejado.
 
-![](images/image2.png)
+![](images/image02.png)
 
 Você pode exibir no catálogo aplicativos de um pacote específico, exemplo: /Applications/Xcode.app/Contents/Applications/
 
@@ -32,19 +32,19 @@ Você pode exibir no catálogo aplicativos de um pacote específico, exemplo: /A
 
 Clique em **Fechar** para encerrar a janela **Ajustes**.
 
-![](images/image4.png)
+![](images/image04.png)
 
 ## Favoritos
 
 Para fixar um aplicativo no início do catálogo você pode defini-lo como favorito, clique no marcador do ícone do aplicativo ou use o menu contextual e selecione **Adicionar aos Favoritos**.
 
-![](images/image5.png)
+![](images/image05.png)
 
 ## Busca por aplicativos
 
 A busca por aplicativos do Launcher usa a API do Spotlight, portanto você pode filtrar pelo nome do aplicativo, nome do pacote e aplicativos que não estão listados no catálogo.
 
-![](images/image6.png)
+![](images/image06.png)
 
 ## Opcionais
 

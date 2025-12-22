@@ -24,7 +24,7 @@ You can add custom locations containing the applications you want to display in 
 
 Click **[ + ]** and select the desired location.
 
-![](images/image2.png)
+![](images/image02.png)
 
 You can display applications inside a specific application bundle, for example: /Applications/Xcode.app/Contents/Applications/
 
@@ -32,19 +32,19 @@ You can display applications inside a specific application bundle, for example: 
 
 Click **Close** to exit the **Settings** window.
 
-![](images/image4.png)
+![](images/image04.png)
 
 ## Favorites
 
 To pin an application to the top of the catalog, you can mark it as a favorite. Click the bookmark icon of the application or use the context menu and select **Add to Favorites**.
 
-![](images/image5.png)
+![](images/image05.png)
 
 ## Application Search
 
 The Launcher's application search uses the Spotlight API, allowing you to filter by application name, bundle name, and even applications not listed in the catalog.
 
-![](images/image6.png)
+![](images/image06.png)
 
 ## Optional Items
 
