@@ -51,3 +51,5 @@ A busca por aplicativos do Launcher usa a API do Spotlight, portanto você pode 
 Mantenha o Launcher no Dock e permita que seja aberto no inicio da sessão, isso garante que os aplicativos fixados como favoritos sejam carregados no menu contextual ao iniciar o sistema.
 
 ![](images/image07.png)
+
+![](images/image08.png)
