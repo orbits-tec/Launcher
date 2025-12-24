@@ -52,4 +52,6 @@ Mantenha o Launcher no Dock e permita que seja aberto no inicio da sessão, isso
 
 ![](images/image07.png)
 
+No macOS 26 você pode remover o aplicativo Apps do Dock.
+
 ![](images/image08.png)

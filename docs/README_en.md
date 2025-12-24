@@ -51,3 +51,7 @@ The Launcher's application search uses the Spotlight API, allowing you to filter
 Keep the Launcher in the Dock and allow it to open at session start. This ensures that applications marked as favorites are loaded in the context menu when the system starts.
 
 ![](images/image07.png)
+
+On macOS 26, you can remove the Apps application from the Dock.
+
+![](images/image08.png)
