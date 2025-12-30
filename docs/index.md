@@ -1,4 +1,4 @@
-# [Github](https://github.com/orbits-tec/Launcher)
+[![GitHub](https://img.shields.io/badge/GitHub-orbits--tec%2FLauncher-black?logo=github)](https://github.com/orbits-tec/Launcher)
 
 # Docs
 
