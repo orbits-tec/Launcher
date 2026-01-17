@@ -9,7 +9,7 @@
 
 ## Catálogo de aplicativos
 
-Por padrão, o catálogo é composto por aplicações nativas do sistema, aplicações instaladas no contexto do usuário e componentes distribuídos via Cryptex, mecanismo utilizado pelo macOS para entrega dinâmica de componentes do sistema.
+Por padrão, o catálogo é composto por aplicações nativas do sistema e aplicações instaladas no contexto do usuário.
 
 | **Local** | **Descrição** |
 | --- | --- |

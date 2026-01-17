@@ -9,7 +9,7 @@
 
 ## Application Catalog
 
-By default, the catalog is composed of native system applications, applications installed in the user context, and components distributed via Cryptex, a mechanism used by macOS for the dynamic delivery of system components.
+By default, the catalog is composed of native system applications and applications installed in the user context.
 
 | **Location** | **Description** |
 | --- | --- |
