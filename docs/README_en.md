@@ -11,13 +11,6 @@
 
 By default, the catalog is composed of native system applications and applications installed in the user context.
 
-| **Location** | **Description** |
-| --- | --- |
-| /System/Applications | Native system applications. |
-| /Applications | Applications installed by the user. |
-| /Users/[user]/Applications | Applications installed in the user context. |
-| Cryptex | Applications and components dynamically delivered by macOS. |
-
 You can add custom locations containing the applications you want to display in the catalog, useful for temporary apps or WebApps. Click the **Settings** icon to open the configuration window.
 
 ![](images/image01.png)

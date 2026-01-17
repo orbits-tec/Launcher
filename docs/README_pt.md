@@ -11,13 +11,6 @@
 
 Por padrão, o catálogo é composto por aplicações nativas do sistema e aplicações instaladas no contexto do usuário.
 
-| **Local** | **Descrição** |
-| --- | --- |
-| /System/Applications | Aplicações nativas do sistema. |
-| /Applications | Aplicativos instalados pelo usuário. |
-| /Users/[user]/Applications | Aplicativos instalados no contexto do usuário |
-| Cryptex | Aplicações e componentes entregues dinamicamente pelo macOS. |
-
 É possível adicionar locais personalizados contendo os aplicativos que você deseja exibir no catálogo, útil para aplicativos temporários ou WebApps. Clique no ícone **Ajustes** para exibir a janela de configurações.
 
 ![](images/image01.png)
